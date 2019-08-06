@@ -1,2 +1,2 @@
 # osm-tools
-Scripts written in Python to simplify data extraction from OpenStreetMap
+Scripts which use the Overpass API to simplify data extraction from OpenStreetMap
